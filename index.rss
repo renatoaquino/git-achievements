@@ -2,6 +2,7 @@
 <title>Renato Aquino's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Architect (Level 3)</title><description>Created a new repository with git init.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
-<item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
